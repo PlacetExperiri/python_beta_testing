@@ -1,4 +1,4 @@
 # python_beta_testing
 Python course beta testing
 
-The my solutions of the tasks of a new on-line course on Python
+Some of my solutions of the tasks as a beta-tester of a new Python on-line course
